@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(lldb) Launch asst1",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/asst1",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "MIMode": "lldb",
+            "stopAtEntry": false
+        }
+    ]
+}
