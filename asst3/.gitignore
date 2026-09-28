@@ -1,0 +1,13 @@
+# Build output
+*.o
+asst?
+out.ppm
+Debug/
+Release/
+.vs/
+x64/
+
+# macOS and editor leftovers
+.DS_Store
+*~
+\#*\#
