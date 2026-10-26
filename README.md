@@ -6,7 +6,9 @@ Starter code for the CS 1750 programming assignments, one folder per problem set
 cs1750-assignments/
 ├── docs/
 ├── asst1/
-└── asst3/
+├── asst3/
+├── asst4/
+└── asst6/
 ```
 
 ## Getting started
