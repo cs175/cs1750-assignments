@@ -8,7 +8,8 @@ cs1750-assignments/
 ├── asst1/
 ├── asst3/
 ├── asst4/
-└── asst6/
+├── asst6/
+└── asst7/
 ```
 
 ## Getting started
