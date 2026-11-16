@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(lldb) Launch asst9",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/asst9",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "MIMode": "lldb",
+            "stopAtEntry": false
+        }
+    ]
+}
